@@ -1,6 +1,6 @@
 # Java Assignment 2 – Strings and Collections
 
-**Name:** Prartana  
+**Name:** Prartana T 
 **Register Number:** 192421099  
 **Course:** Programming in Java  
 **Assignment:** Assignment 2 (CO2)
